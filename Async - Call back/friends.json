@@ -1,0 +1,16 @@
+{
+    "friends": [
+        {
+            "id": 1,
+            "name": "arbab"
+        },
+        {
+            "id": 2,
+            "name": "anjum"
+        },
+        {
+            "id": 3,
+            "name": "arain"
+        }
+    ]
+}
